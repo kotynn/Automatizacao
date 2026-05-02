@@ -1,5 +1,5 @@
-package src.service;
+package service;
 
-public class PdfService {
+public class PdfService{
     
 }
